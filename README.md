@@ -4,7 +4,7 @@
 - 📫 Email: [restifm2@khu.ac.kr](mailto:restifm3@naver.com)  
 - 🌐 GitHub: [KHUSangYub](https://github.com/KHUSangYub)  
 - 🔗 Portfolio: [khusangyub.github.io](https://khusangyub.github.io)  
-- 📷 Instagram: [@Sangyub_2](Sangyub_2)  
+- 📷 Instagram: [@Sangyub_2](https://instagram.com/Sangyub_2)   
 - 📍 Seoul, Korea  
 
 ---
