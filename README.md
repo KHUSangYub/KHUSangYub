@@ -1,5 +1,13 @@
 
+### 💬 Contact SangYub
 
+- 📫 Email: [restifm3@naver.com](mailto:restifm3@naver.com)  
+- 🌐 GitHub: [KHUSangYub](https://github.com/KHUSangYub)  
+- 🔗 Portfolio: [khusangyub.github.io](https://khusangyub.github.io)  
+- 📷 Instagram: [@Sangyub_2](Sangyub_2)  
+- 📍 Seoul, Korea  
+
+---
 🎯 **DX 전략 기획가 & AI/IT 실무형 컨설턴트**
 
 저는 Digital & Tech의 전문성과 Biz, IT, AI에 대한 전략적 통찰을 바탕으로 금융 산업의 **DX전략을 기획·수립**하는 전략가입니다. 단일 분야에 국한되지 않고, 서비스 전략, 플랫폼 전략, IT 전략, AI 전략 등 다양한 영역을 아우릅니다.
@@ -22,7 +30,7 @@
 - **Web Frameworks**: Django, React  
 - **AI/ML**: PyTorch, Scikit-learn, HuggingFace  
 - **Data**: Pandas, NumPy, Excel, Tableau, Streamlit, W&B  
-- **Cloud & Infra**: AWS  
+- **Cloud & Infra**: AWS,FireBase
 
 ---
 
@@ -57,15 +65,7 @@
 
 ---
 
-### 💬 Contact Me
 
-- 📫 Email: [restifm3@naver.com](mailto:restifm3@naver.com)  
-- 🌐 GitHub: [KHUSangYub](https://github.com/KHUSangYub)  
-- 🔗 Portfolio: [khusangyub.github.io](https://khusangyub.github.io)  
-- 📷 Instagram: [@Sangyub_2](Sangyub_2)  
-- 📍 Seoul, Korea  
-
----
 
 ### ⚡ Fun Fact
 
